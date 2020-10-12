@@ -1,5 +1,14 @@
-function takeOrder(deliveryOrders, order){
-return
+function takeOrder(order, deliveryOrders){
+if(deliveryOrders.length < 3){
+  deliveryOrders.push(order)
+}
+
+function refundOrder(deliveryOrders.length, ){
+
+
+}
+
+
 
 }
 
